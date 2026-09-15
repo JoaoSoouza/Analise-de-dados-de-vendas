@@ -1,4 +1,4 @@
-analise-vendas-python
+
 📊 Mais um projeto concluído durante meus estudos em Análise e Desenvolvimento de Sistemas.
 
 Neste projeto, trabalhei com uma base de dados de vendas utilizando:
